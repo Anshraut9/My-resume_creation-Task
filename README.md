@@ -1,6 +1,6 @@
 # Resume Website
 
-This project is a simple, clean, and modern resume website built using HTML and CSS. It is designed to present your skills, contact information, education, and work experience in a visually appealing and accessible way.
+This project is a simple, clean, and modern resume website built using HTML and CSS. It is designed to present my skills, contact information, education, and work experience in a visually appealing and accessible way.
 
 ## Features
 - Responsive and minimalistic design
